@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-rnexpov5-dev-102603-authRole",
+      "UnauthRoleArn": "arn:aws:iam::296215747775:role/amplify-rnexpov5-dev-102603-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::296215747775:role/amplify-rnexpov5-dev-102603-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-rnexpov5-dev-102603-deployment",
+      "UnauthRoleName": "amplify-rnexpov5-dev-102603-unauthRole",
+      "StackName": "amplify-rnexpov5-dev-102603",
+      "StackId": "arn:aws:cloudformation:us-east-1:296215747775:stack/amplify-rnexpov5-dev-102603/e09f67d0-5eb8-11ed-b331-120b28ff0187",
+      "AmplifyAppId": "d2i74fkatwxxc2"
+    },
+    "categories": {
+      "auth": {
+        "rnexpov5352dcd89": {
+          "userPoolId": "us-east-1_mfi0sPY4O",
+          "userPoolName": "rncliv5newd211ebfb_userpool_d211ebfb-dev",
+          "webClientId": "1ic22c742go2i0dofrc643f915",
+          "nativeClientId": "7ipbkssfrcvhf0tcj3ek7070mv",
+          "identityPoolId": "us-east-1:aa9c62da-3b11-40f0-822f-d5cb8dc7c698",
+          "identityPoolName": "rncliv5newd211ebfb_identitypool_d211ebfb__dev",
+          "allowUnauthenticatedIdentities": false,
+          "authRoleArn": "arn:aws:iam::296215747775:role/amplify-rncliv5new-dev-150233-authRole",
+          "authRoleName": "amplify-rncliv5new-dev-150233-authRole",
+          "unauthRoleArn": "arn:aws:iam::296215747775:role/amplify-rncliv5new-dev-150233-unauthRole",
+          "unauthRoleName": "amplify-rncliv5new-dev-150233-unauthRole"
+        }
+      }
+    }
+  }
+}

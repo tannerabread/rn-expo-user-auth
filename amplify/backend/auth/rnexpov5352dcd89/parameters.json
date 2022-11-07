@@ -1,0 +1,21 @@
+{
+  "authSelections": "identityPoolAndUserPool",
+  "resourceName": "rnexpov5352dcd89",
+  "serviceType": "imported",
+  "region": "us-east-1",
+  "authProvidersUserPool": [
+    "Google"
+  ],
+  "requiredAttributes": [
+    "email"
+  ],
+  "passwordPolicyMinLength": 8,
+  "passwordPolicyCharacters": [],
+  "mfaConfiguration": "OPTIONAL",
+  "autoVerifiedAttributes": [
+    "email"
+  ],
+  "mfaTypes": [
+    "TOTP"
+  ]
+}
